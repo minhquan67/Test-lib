@@ -17,7 +17,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "package-ts",
+            "prefix": "package-ts-test",
             "style": "kebab-case"
           }
         ]

@@ -1,5 +1,5 @@
 {
-  "name": "package-ts",
+  "name": "package-ts-test",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
@@ -28,7 +28,7 @@
     "@angular/compiler-cli": "~15.2.0",
     "@angular/language-service": "~15.2.0",
     "@nrwl/angular": "^15.8.9",
-    "@nrwl/esbuild": "15.8.9",
+    "@nrwl/esbuild": "^15.8.9",
     "@nrwl/eslint-plugin-nx": "15.8.9",
     "@nrwl/jest": "15.8.9",
     "@nrwl/js": "15.8.9",
